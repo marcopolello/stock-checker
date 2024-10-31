@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'polygon' => [
+        'api_key' => env('POLYGON_API_KEY'),
+    ],
+
 ];
